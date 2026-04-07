@@ -44,6 +44,8 @@ li {
     color: olive;
 }
 
+/* nav bar */
+
 nav {
     height: 100px;
     width: 100%;
@@ -89,6 +91,7 @@ nav {
     border-radius: 50px;
     box-shadow: 0 5px 10px;
 }
+/* about me */
 
 #about-me {
     min-height: 100vh;
@@ -111,7 +114,6 @@ nav {
     height: 100px;
     box-shadow: 0 8px 16px darkslategray;
     margin-bottom: 26px;
-
 }
 .about-me__picture {
     width: 100%;
@@ -124,4 +126,9 @@ nav {
 
 .about-me__info--title {
     margin-bottom: 16px;
+}
+
+.about-me__link {
+    font-size: 20px;
+    color: black;
 }
