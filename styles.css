@@ -9,7 +9,7 @@
 }
 
 h1, h2, h3, h4, h5, h6, span {
-    color: chocolate;
+    color: darkslategrey;
     text-align: center;
     line-height: 1.25;
 }
@@ -129,6 +129,9 @@ nav {
 }
 
 .about-me__link {
-    font-size: 20px;
+    font-size: 30px;
     color: black;
+    text-decoration: none;
+    padding: 0 16px;
 }
+
